@@ -1,0 +1,36 @@
+{
+  "name": "dac06",
+  "version": "1.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node getDataSql.js"
+  },
+  "dependencies": {
+    "applicationinsights": "^1.8.10",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.1",
+    "mssql": "^6.3.1",
+    "node-fetch-with-proxy": "^0.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "prettier": "^1.18.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cmno/dac6.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cmno/dac6/issues"
+  },
+  "homepage": "https://github.com/cmno/dac6#readme",
+  "description": ""
+}

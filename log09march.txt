@@ -1,0 +1,8 @@
+
+> dac06@1.0.1 start /home/node/dac6
+> node getDataSql.js
+
+DB connected success!
+Waiting for the data to come over from db ... It can take a while! Be patient please!
+1
+row 1 1

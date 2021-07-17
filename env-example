@@ -1,0 +1,12 @@
+sqlUser=
+sqlPassword=
+sqlServer=
+sqlDatabase=
+apiKey=
+tenantID=
+testApiKey=
+testTenantID=
+apiUser=
+baseUrl=
+testBaseUrl=
+APPINSIGHTS_INSTRUMENTATIONKEY=

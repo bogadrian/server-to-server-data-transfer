@@ -1,0 +1,4 @@
+ user: 'sa_dac6',
+  password: '9J3$FhkaB#dKJ7U_',
+  server: 'vlon529.cmck.com',
+  database: 'dac6_db',
